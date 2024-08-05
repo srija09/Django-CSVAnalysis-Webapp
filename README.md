@@ -26,13 +26,12 @@ generating basic plots using matplotlib and seaborn.
 
 First, clone the repository to your local machine:
 
-```sh
 git clone https://github.com/yourusername/django_csv_analysis.git
 cd django_csv_analysis
 
 ### 2. Create a new conda environment and activate it:
 
-conda create -n django_csv_analysis python=3.11
+conda create -n django_csv_analysis python=your_python_version
 conda activate django_csv_analysis
 
 ### 3. Install Dependencies
